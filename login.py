@@ -1,1 +1,1 @@
-print("LOGIN")s
+print("LOGIN");
